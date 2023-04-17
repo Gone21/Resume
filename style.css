@@ -192,6 +192,7 @@ body {
     width: 100%;
     display: grid;
     grid-template-columns: 1fr 2fr; 
+    
 
 }
 
@@ -199,9 +200,10 @@ body {
     position: relative;
     margin-top: 20%;
     text-align: left;
-    width: 80%;
+    width: 62%;
     font-size: 15px;
     color: rgb(149, 145, 145);
+    
 }
 
 .tek-exp .text, .kbc .text, .wpx .text {
